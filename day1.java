@@ -25,3 +25,27 @@
 //      System.out.println(a);
 //     }
 // } 
+
+
+// import java.util.*;
+// public class day1{
+//     public static void main (String args[]){
+//         Scanner sc = new Scanner(System.in);
+
+//         int a = sc.nextInt();
+//         int b= sc.nextInt();
+//         System.out.print(a*b);
+
+//     }
+// }
+
+// import java.util.*;
+
+// public class day1{
+//     public static void main (String args[]){
+//         Scanner sc = new Scanner(System.in);
+//         float value = sc.nextFloat();
+//         Double ans = 3.14*value*value;
+//         System.out.print(ans);
+//     }
+// }
