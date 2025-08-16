@@ -58,19 +58,19 @@
 // }
 
 
-public class arrray{
-   public static int large(int arr[]){
-    int large=0;
-    for(int i=0; i<arr.length; i++){
-        if(large<arr[i]){
-          large= arr[i];
-        } 
-    }
-    return large;
-   }
-  public static void main (String args[]){
-    int arr[]={1,44,66,75,33};
-     int ans = large(arr);
-     System.out.print(ans);
-  }
-}
+// public class arrray{
+//    public static int large(int arr[]){
+//     int large=0;
+//     for(int i=0; i<arr.length; i++){
+//         if(large<arr[i]){
+//           large= arr[i];
+//         } 
+//     }
+//     return large;
+//    }
+//   public static void main (String args[]){
+//     int arr[]={1,44,66,75,33};
+//      int ans = large(arr);
+//      System.out.print(ans);
+//   }
+// }
